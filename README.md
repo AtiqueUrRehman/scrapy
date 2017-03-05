@@ -52,6 +52,4 @@ ipython notebook
 - For running spiders, run the following command :
 ```
 scrapy runspider <spider name> -o <output file name>
-
 ```
-
