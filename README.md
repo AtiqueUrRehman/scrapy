@@ -53,3 +53,4 @@ ipython notebook
 ```
 scrapy runspider <spider name> -o <output file name>
 ```
+#### P.S : For hover effect on the graph eigther run the complete notebook with data, or download the html version and open in browser.
